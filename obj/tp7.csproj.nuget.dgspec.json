@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno\\Documents\\GitHub\\tl1-tp7-2024-willz4321\\tp7.csproj": {}
+    "c:\\Users\\Alumno\\Documents\\GitHub\\tl1-tp7-2024-willz4321\\tp7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno\\Documents\\GitHub\\tl1-tp7-2024-willz4321\\tp7.csproj": {
+    "c:\\Users\\Alumno\\Documents\\GitHub\\tl1-tp7-2024-willz4321\\tp7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\Documents\\GitHub\\tl1-tp7-2024-willz4321\\tp7.csproj",
+        "projectUniqueName": "c:\\Users\\Alumno\\Documents\\GitHub\\tl1-tp7-2024-willz4321\\tp7.csproj",
         "projectName": "tp7",
-        "projectPath": "C:\\Users\\Alumno\\Documents\\GitHub\\tl1-tp7-2024-willz4321\\tp7.csproj",
+        "projectPath": "c:\\Users\\Alumno\\Documents\\GitHub\\tl1-tp7-2024-willz4321\\tp7.csproj",
         "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\Documents\\GitHub\\tl1-tp7-2024-willz4321\\obj\\",
+        "outputPath": "c:\\Users\\Alumno\\Documents\\GitHub\\tl1-tp7-2024-willz4321\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
