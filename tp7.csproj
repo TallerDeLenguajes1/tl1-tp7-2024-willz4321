@@ -9,6 +9,8 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Calculadora.cs" />
+    <Compile Include="Empleado.cs" />
+    <Compile Include="Cargos.cs" />
   </ItemGroup>
 
 </Project>
